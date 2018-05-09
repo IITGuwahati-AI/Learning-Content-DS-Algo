@@ -21,5 +21,5 @@
 
 ## Step 2 - Download the Books and Begin with them
 
- - Download both the books namely [Introduction to Algortihms] and [DataStructres and Algorithms in Python] and begin with them
+ - Download both the books namely [Introduction to Algortihms]() and [DataStructres and Algorithms in Python]() and begin with them
  - Read them casually as of now until the above course starts and them follow the book with the course.
