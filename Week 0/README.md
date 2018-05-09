@@ -18,3 +18,8 @@
 9. Apply for the Financial Aid.
 10. Apply for the **ID Verification** which can be found under Settings under the drop down menu accesible from top right corner.
 11. Use **Aadhar Card** or **Pan Card** or **Driving License** for it. Don't use **Institue ID Card**.
+
+## Step 2 - Download the Books and Begin with them
+
+ - Download both the books namely [Introduction to Algortihms] and [DataStructres and Algorithms in Python] and begin with them
+ - Read them casually as of now until the above course starts and them follow the book with the course.
