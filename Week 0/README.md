@@ -4,11 +4,11 @@
 *This process takes 15 days to complete*
 1. Register on Coursera
 2. Open the Following Courses
-    a. [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
-    b. [DataStructures](https://www.coursera.org/learn/data-structures)
-    c. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
-    d. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
-    e. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
+    - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+    - [DataStructures](https://www.coursera.org/learn/data-structures)
+    - [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
+    - [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
+    - [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
 3. There is an Option for Financial Aid which is below the option Try the Course for Free
 4. Click on it
 5. Fill the form 
