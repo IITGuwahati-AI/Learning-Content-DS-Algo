@@ -2,7 +2,7 @@
 
 ## Step 1 - Register for the required Course.
 *This process takes 15 days to complete*
-1. Register on Coursera
+1. Register on [Coursera](https://www.coursera.org/)
 2. Open the Following Courses
     - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
     - [DataStructures](https://www.coursera.org/learn/data-structures)
