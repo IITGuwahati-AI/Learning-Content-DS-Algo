@@ -9,8 +9,8 @@
 
 - Submit a folder which resembles the *Sample Submission* Folder
 - Can Contain multiple weeks in one folder just **add the week number** correctly.
-- The image file should contain **more than 60%** completion percentage.( Just a request)
-- Use the Following Shortforms for course
+- The image file should show **more than 60%** completion percentage.( Just a request)
+- Use the Following Abbreviations for course
     - Algorithmic Toolbox -- *AT*
     - DataStructures -- *DS*
     - Algorithms on Graphs -- *AG*
